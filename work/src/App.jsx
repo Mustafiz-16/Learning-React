@@ -1,4 +1,5 @@
 import Memo from "./components/memo";
+import MemoCallback from "./components/memo-callback";
 import State from "./components/state"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
     <State />
     <Memo />
+    <MemoCallback />
     </>
   )
 }
