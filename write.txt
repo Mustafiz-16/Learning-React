@@ -1,0 +1,9 @@
+context api --> ei jinish hocche state management hocche help korbe
+
+
+
+
+state passing er je beparta eita bole props drilling joto component barbe toto props drill hote thakbe
+
+
+jeikhane jeikhane theme update er bishoy ta ashbe eishob component gulo te nije theke automatically update kore nibe
